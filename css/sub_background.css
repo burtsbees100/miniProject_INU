@@ -104,7 +104,7 @@
 .custom-select .options li span img {
     opacity: 0;
     position: absolute;
-    right: 10px;
+    right: 5px;
     top: 50%;
     transform: translateY(-50%);
     width: 15px;
